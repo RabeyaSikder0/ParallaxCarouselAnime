@@ -1,4 +1,4 @@
-https://github.com/RabeyaSikder0/FoodListAnimation/assets/147448680/2a0f5ddc-cce2-4123-8ae3-d56832412067
+https://github.com/RabeyaSikder0/ParallaxCarouselAnime/assets/147448680/3c45c6db-bcf9-4b2f-be5c-889aafd3c20a
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
