@@ -1,4 +1,4 @@
-https://github.com/RabeyaSikder0/ParallaxCarouselAnime/assets/147448680/3c45c6db-bcf9-4b2f-be5c-889aafd3c20a
+https://github.com/RabeyaSikder0/ParallaxCarouselAnime/assets/147448680/88d20b2e-af13-4ddb-88be-10cb7401fcca
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
